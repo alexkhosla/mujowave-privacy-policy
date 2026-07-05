@@ -44,7 +44,7 @@
 
   For privacy questions, contact:
 
-  YOUR_EMAIL_HERE
+  alexkhosla@gmail.com
 
   ## Changes
 
